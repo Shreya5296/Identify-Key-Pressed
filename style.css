@@ -1,0 +1,37 @@
+body{
+	background-image: url("lap1.jpeg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#myCanvas
+{
+    margin-top: 200px;
+    margin-left: -20px;
+	border-width:20px;
+	background-color:white; 
+	border-style:ridge;
+	border-radius: 10px;
+	border-color: black;
+} 
+
+h1
+{
+    font-size: 50px;
+	font-family:cursive;
+	color:blue!important;
+}
+
+h4{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: fantasy;
+    color:black!important;
+    margin-bottom: -90px;
+}
+
+#d1{
+    color:white;
+}
+
